@@ -527,6 +527,11 @@ footer {
         display: none;
     }
 
+    .limitedOffer {
+        display: none;
+    }
+
+
     .sliderPrice {
         top: unset;
         bottom: -50;
